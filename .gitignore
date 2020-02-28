@@ -6,3 +6,14 @@
 # Binaries
 *.zip
 *.gz
+
+# Downloaded files
+data-raw/kradfile
+data-raw/kradfile2
+data-raw/kradintro
+data-raw/radkfile
+data-raw/radkfile2
+data-raw/radkfilex
+data-raw/radkintro
+data-raw/radkintro2
+data-raw/radkintrox
